@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd39b0c9-fc35-4a4e-96c7-e4639e0887d7/ddul5lc-a58bce6f-56c1-469d-b5aa-a3b22efa95aa.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMzliMGM5LWZjMzUtNGE0ZS05NmM3LWU0NjM5ZTA4ODdkN1wvZGR1bDVsYy1hNThiY2U2Zi01NmMxLTQ2OWQtYjVhYS1hM2IyMmVmYTk1YWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bkU0PVc6Qgpau7maeC0-yWijDpFv-jtRrKzmTpWAfRU);
+}
+p {
+    text-align: justify;
+}
+img {
+    width: 50px:
+}
+.container {
+    display: center;
+}
+.header {
+    text-align: center;
+    background-color: lightgray;
+}
+Footer{
+    text-align: center;
+    background-color: lightgray;
+}
